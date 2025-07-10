@@ -1,2 +1,2 @@
 # Single-Page-CV
-https://github.com/lukedongque/Single-Page-CV/blob/main/index.html
+https://roadmap.sh/projects/single-page-cv
